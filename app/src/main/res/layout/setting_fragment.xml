@@ -139,7 +139,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="260dp"
         android:gravity="center"
-        android:text="老杨老杨头"
+        android:text="WordsAPP"
         android:textColor="#AEAEAE"
         android:textSize="10sp" />
     <TextView
@@ -147,7 +147,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:gravity="center"
-        android:text="2022年7月16日"
+        android:text="2024年4月26日"
         android:textColor="#AEAEAE"
         android:textSize="10sp" />
 
